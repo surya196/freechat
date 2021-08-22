@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173989736101",
+    "project_id": "freechat-b8067",
+    "storage_bucket": "freechat-b8067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173989736101:android:5b268773e2ad414877674c",
+        "android_client_info": {
+          "package_name": "com.surya.animatedcontainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173989736101-o25so21gog7fup0hvkdr6lot0lpqjasi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvDrcaXnUbz2D_7-y6dzA_NS7lp8Q_sI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173989736101-o25so21gog7fup0hvkdr6lot0lpqjasi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
